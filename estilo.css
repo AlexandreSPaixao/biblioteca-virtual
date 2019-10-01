@@ -1,0 +1,74 @@
+.tema{
+	color: green;
+	text-align: center;
+	font-size: 4rem;
+}
+.cor1{
+  color: purple;
+  text-align: center;
+  font-size: 2rem;
+}
+.font2{
+	color: #FFFFFF;
+	text-align: center;
+	font-size: 2rem;
+}
+.font3{
+	color:#FFFFFF;
+	text-align:center;
+	font-size:3rem;
+}
+.font4{
+	color:#FFFFFF;
+	text-align:center-left;
+	font-size:20px;
+}
+.img{
+	display: block;
+	margin: 0 30rigth;
+}
+.html{
+	background-color: #51C0E5;
+}
+.body{
+	background-color: yellow;
+	width: 600px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+.lobato{
+	background-color: #b0b895;
+	width: 600px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+	border: 5px solid black;
+}
+.macagato{
+	background-color: #e5f2b3;
+	width: 600px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;	
+	border:2px solid blue;
+}
+
+.menu{
+	width: ;
+	margin: ;
+	padding: ;
+	border:;	
+}
+.bodycraft{
+	background-color: #086733;
+	width: 600px;
+	margin: 0 auto;
+	padding: 0 2px 20px 20px;
+	border:2px solid white;
+}
+.bodyarfrio{
+	background-color: #0983F7;
+	width:600px;
+	margin:0 auto;
+	padding: 0 2px 20px 20px;
+	border: 2px solid white;
+}
